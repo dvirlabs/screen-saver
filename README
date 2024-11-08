@@ -1,0 +1,10 @@
+Download pyinstaller
+Run pyinstaller --onefile --windowed your_script_name.py
+Rename your_script_name.exe screensaver.scr the .exe file should be in dist/
+Move or Copy the .scr file to C:\Windows\System32\
+
+Now press win + r and type control
+Search the Change screen saver under Power Option
+Choose from the drop list the new screen saver
+
+That's all hope you enjoy :)
